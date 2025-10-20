@@ -53,9 +53,3 @@ Por ser um projeto front-end estático, não há necessidade de um servidor ou d
     ```
 2.  **Abra o arquivo `index.html`:**
     Navegue até a pasta do projeto e abra o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
-
-## 👨‍💻 Autor
-
--   **Nome:** `[Seu Nome Completo]`
--   **E-mail:** `[seu.email@exemplo.com]`
--   **GitHub:** `[link-para-seu-perfil-no-github]`
